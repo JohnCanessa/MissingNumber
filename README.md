@@ -7,7 +7,7 @@ Please refer to the book for requirements and proposed soulution.
 
 For additional information regarding this code please visit my blog post at:
 
-T.B.D.
+https://www.johncanessa.com/2020/04/18/missing-number-revisited/
 
 Enjoy;
 
